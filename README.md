@@ -1,3 +1,7 @@
-Nama : Ratih Ambara Sukma Kurnilia
-NIM : 2311110037
-Kelas : S1SD04-B
+## Repository Praktikum Infrastruktur dan Platform untuk Sains Data
+
+<pre>
+Nama	: Dwi Sulistyani
+NIM	: 2311110065
+Kelas	: S1SD04-B
+</pre>
